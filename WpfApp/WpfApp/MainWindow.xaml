@@ -5,7 +5,5 @@
         Title="WpfApp"
         Height="450"
         Width="800">
-    <Grid>
-
-    </Grid>
+    <!-- TODO -->
 </Window>
