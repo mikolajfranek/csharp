@@ -20,18 +20,16 @@ namespace WpfApp
                 Environment.Exit(0);
             InitializeComponent();
             //TODO
-            //logowanie z wylogowaniem zdalnym (
+            //- podział na moduły (jedna instancja, moduł uruchamiajacy)
+            //- logowanie z wylogowaniem zdalnym 
             //- wpf style/widoki
             //- wstrzykiwanie widoków z zwalnianiem pamięci podczas przejścia z widoku do widoku,
             //- reaktywność,
-            //- automatyczna aktualizacja)
-            //
-            //https://github.com/PrismLibrary/Prism
+            //- automatyczna aktualizacja
+            //- poszukać inspiracji (https://github.com/PrismLibrary/Prism
             //https://github.com/PrismLibrary/Prism-Samples-Wpf/tree/master/01-BootstrapperShell
             //https://github.com/PrismLibrary/Prism-Samples-Wpf/tree/master/05-ViewInjection/ViewInjection/Views
-            //DelegateCommand<T> (implementująca ICommand)
-            //BindableBase (implementująca INotifyPropertyChanged)
-            //https://github.com/PrismLibrary/Prism-Samples-Wpf/tree/master/08-ViewModelLocator (lokalizator modelu widoku)
+            //https://github.com/PrismLibrary/Prism-Samples-Wpf/tree/master/08-ViewModelLocator
         }
     }
 }
