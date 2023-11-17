@@ -20,12 +20,12 @@ namespace WpfApp
                 Environment.Exit(0);
             InitializeComponent();
             //TODO
-            //- podział na moduły (jedna instancja, moduł uruchamiajacy)
-            //- logowanie z wylogowaniem zdalnym 
-            //- wpf style/widoki
+            //- podział na moduły (jedna instancja, moduł uruchamiajacy) / wstrzykiwanie zależności?
             //- wstrzykiwanie widoków z zwalnianiem pamięci podczas przejścia z widoku do widoku,
+            //- wpf style/widoki
             //- reaktywność,
             //- automatyczna aktualizacja
+            //- logowanie z wylogowaniem zdalnym 
             //- poszukać inspiracji (https://github.com/PrismLibrary/Prism
             //https://github.com/PrismLibrary/Prism-Samples-Wpf/tree/master/01-BootstrapperShell
             //https://github.com/PrismLibrary/Prism-Samples-Wpf/tree/master/05-ViewInjection/ViewInjection/Views

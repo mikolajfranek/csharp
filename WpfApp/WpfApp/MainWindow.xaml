@@ -7,3 +7,13 @@
         Width="800">
     <!-- TODO -->
 </Window>
+
+
+<ui:UiWindow
+    
+    xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml">
+    <Grid>
+        <ui:Button Content="Hello World"
+                   Icon="Fluent24" />
+    </Grid>
+</ui:UiWindow>

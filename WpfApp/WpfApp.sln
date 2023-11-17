@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp", "WpfApp\WpfApp.csproj", "{A0C48F20-3FC7-40EA-898C-6C63B20D100C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp.Backend", "WpfApp.Backend\WpfApp.Backend.csproj", "{A7396CAD-93F7-4DBB-8543-C91FD2EA9E59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp.Backend", "WpfApp.Backend\WpfApp.Backend.csproj", "{A7396CAD-93F7-4DBB-8543-C91FD2EA9E59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,8 +25,8 @@ Global
 		{A0C48F20-3FC7-40EA-898C-6C63B20D100C}.Release|x64.Build.0 = Release|x64
 		{A7396CAD-93F7-4DBB-8543-C91FD2EA9E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A7396CAD-93F7-4DBB-8543-C91FD2EA9E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A7396CAD-93F7-4DBB-8543-C91FD2EA9E59}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{A7396CAD-93F7-4DBB-8543-C91FD2EA9E59}.Debug|x64.Build.0 = Debug|Any CPU
+		{A7396CAD-93F7-4DBB-8543-C91FD2EA9E59}.Debug|x64.ActiveCfg = Debug|x64
+		{A7396CAD-93F7-4DBB-8543-C91FD2EA9E59}.Debug|x64.Build.0 = Debug|x64
 		{A7396CAD-93F7-4DBB-8543-C91FD2EA9E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7396CAD-93F7-4DBB-8543-C91FD2EA9E59}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A7396CAD-93F7-4DBB-8543-C91FD2EA9E59}.Release|x64.ActiveCfg = Release|Any CPU
