@@ -8,7 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="protobuf-net" Version="3.2.26" />
+    <PackageReference Include="protobuf-net" Version="3.2.30" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Licences\Microsoft.Extensions.Hosting\" />
+    <Folder Include="Licences\CommunityToolkit.Mvvm\" />
   </ItemGroup>
 
 </Project>
